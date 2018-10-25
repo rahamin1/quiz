@@ -3,7 +3,7 @@ A quiz game, fetching trivia questions from https://opentdb.com/
 
 Note: The categories (e.g. Television, Computers) and difficulty levels (easy, medium) are limited, since not too many questions exist in the site for other categories and for the 'hard' level (I didn't check all, of course. But, for example, there are 'hard' questions only for few categories, therefore 'hard' cannot be selected.). More can be added, if there are questions available.
 
-In a similar way to category and difficulty, adding selections is quite easy (e.g number of questions).
+In a similar way to category and difficulty, adding other 'selections' is quite easy (e.g number of questions).
 
 ## Installation
 
