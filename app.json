@@ -9,7 +9,7 @@
       "ios",
       "android"
     ],
-    "version": "1.0.2",
+    "version": "0.4",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "splash": {
@@ -34,7 +34,7 @@
       }
     },
     "android": {
-      "package": "com.yossiglass.israelWeather",
+      "package": "com.yossiglass.quiz",
       "versionCode": 2,
       "splash": {
         "ldpi": "./assets/images/splash.png",
@@ -45,6 +45,11 @@
         "xxxhdpi": "./assets/images/splash.png",
         "resizeMode": "cover",
         "backgroundColor": "#ffffff"
+      },
+      "icon": "./assets/images/icon.png",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/icon.png",
+        "backgroundColor": "#3F2F68"
       }
     },
     "githubUrl": "https://github.com/rahamin1/quiz.git"
